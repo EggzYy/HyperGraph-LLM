@@ -1,0 +1,8 @@
+entities:
+  DUMMY:
+    name: "Placeholder entity"
+    desc: "This KB is intentionally empty."
+aliases:
+  - alias: "dummy"
+    entities: ["DUMMY"]
+    probabilities: [1.0]

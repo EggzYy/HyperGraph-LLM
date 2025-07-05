@@ -1,0 +1,1502 @@
+[
+  {
+    "literal": "AST",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ALT ratio",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "De Ritis ratio",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "site",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "biliary obstruction",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "associated with",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "cholestatic picture",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ALT",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ratio",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "extrahepatic obstruction",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ALT titre",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "higher",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "intrahepatic",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "mechanical",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "medical",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "cholestasis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Drug",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "induced",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ALP",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "GGT",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Causative drugs",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "antibiotics",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "immunosuppressants",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "tricyclic",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "antidepressants",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "angiotensin converting enzyme inhibitors",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Primary Biliary Cirrhosis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "autoimmune condition",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "biliary ducts",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "level",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "transaminases",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "normal",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "European Association for Study of the Liver",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "EASL",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "American Association for Study of Liver Disease",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "AASLD",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "diagnosis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "PBC",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "cholestatic",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "liver",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "levels",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "conjunction",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "demonstration",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "anti",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "mitochondrial antibodies",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "criteria",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "absent",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "imaging",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "liver biopsy",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "scoring criteria",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "effects of",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ursodeoxycholic acid",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "management",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "raised",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "non",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "histological indicators",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "cirrhosis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "low",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "sensitivity",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "specificity",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "elevated",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "enzyme",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "histological",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "indicators",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Mechanical biliary obstruction",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "results",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "bilirubin",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "comparison",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ALT.s\nLevels",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "proportions",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "choledocholithiasis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "fluctuate",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "stricture forming disease",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "titres",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "fall",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "liver transaminases",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "U.",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "liver enzymes",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Primary Sclerosing Cholangitis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "PSC",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Alcohol",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "induces",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "hepatic enzymes",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "disproportionately",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "association",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "jaundice",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "liver disease",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "presence",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "macrocytosis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "associated",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "dietary deficiency",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "folate",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "B12",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "suppression",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "bone marrow",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "alcoholic liver disease",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "diagnostic",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "alcohol abuse",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "research",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "former drinkers",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "drinkers",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Abstract",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "evaluation",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "patients",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "diseases",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "information",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "patient\u2019s primary disorder",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "hepatitic",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "origin",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "enzyme ratios",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "pattern recognition",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "generalists",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "tests",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "investigation",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Liver Function Tests",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "LFTs",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "screening blood tests",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "suspected",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "monitoring of",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "disease activity",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "routine",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "blood analysis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "host",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "disease processes",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "liver function",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "misnomer",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "albumin",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "functional",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "interpreted",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "assays",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "knowledge",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Patterns",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Practice",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "assessed",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "history",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "clinical examination",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "doubt",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "persists",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "overweight",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "diabetic",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "enjoys",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "glasses",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "wine",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "weekend",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "alcoholic",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "alcoholic fatty liver disease",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "absolute",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ratios",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "clinician",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "right direction",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "pattern",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "enzymes",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "differentiating",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "hepatitis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "mixed picture",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Enzyme titres",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "I",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "antimitochondrial antibodies",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Endoscopic Retrograde Cholangiopancreatography",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ERCP",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Magnetic Resonance Cholangiopancreatography",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "MRCP",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "findings",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "biopsy",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Transaminase",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Mayo Risk Score",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "calculates",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "risk",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "disease progression",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "high",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "indicators of",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "development",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "oesophageal varices",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "liver diseases",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "suggestions",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "men",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "drink",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "daily",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "women",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "binge drinkers",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "consuming alcohol",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "food",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "loosely",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "dose dependant",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "quartiles",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "alcohol intake",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Fatty Liver",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "decades",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "differentiation",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "ALD",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Fatty Liver Disease",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "NAFLD",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "spectrum",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "pyridoxal",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "5\u2019",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "phosphate",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "vitamin B6",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "function",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "nutritionally",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "deficient",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "heavy",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "effect",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "production",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "scores",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "NASH",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "High ratios",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "severity",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "alcohol consumption",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "factors",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "models",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "differentiate",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "clinical guide",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "worsen",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "response",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "cessation",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "admission to hospital",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "admission to",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "hospital",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "no liver disease",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "reasonable",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "accuracy",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "liver enzyme analysis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "failed",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "sensitive",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "specific",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "confirmation",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "lies",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "early",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "identification",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "modification",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "metabolic",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "risk factors",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "hypertension",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "hyperlipidaemia",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "glycaemic control",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "stratification",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "future",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "scoring system",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "Mayo clinic",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "age",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "hyperglycemia",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "body mass index",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "platelet count",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "fibrosis",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "disease",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "increase",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "abusing",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "score",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "patient",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  },
+  {
+    "literal": "No studies",
+    "pattern": null,
+    "category": "ENTITY",
+    "attributes": null
+  }
+]
