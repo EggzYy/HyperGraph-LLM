@@ -860,7 +860,21 @@ class MedicalHypergraphPipeline:
     # ----------------------------------------------------------------------
     def _extract_hypergraph_atoms(self, doc: Doc, offset: int = 0) -> Dict[str, Any]:
         """Extract all hypergraph data from a document with optional character offset."""
-        ent_atoms, _ = self._create_entity_instance_atoms(doc, offset)
+        ent_atoms, canonical_map = self._create_entity_instance_atoms(doc, offset)
+        ent_idx_to_canonical_id = {}
+        for idx, ent in enumerate(doc.ents):
+            surface = ent.text.lower().strip()
+            best_cui = self._best_cui(ent)
+            canon_key = (surface, best_cui)
+            canonical_id = canonical_map.get(canon_key)
+            if canonical_id:
+                ent_idx_to_canonical_id[idx] = canonical_id
+
+        # Map entity indices to their canonical IDs
+        #ent_atoms = [
+        #    {**atom, "canonical_id": ent_idx_to_canonical_id.get(atom["id"], None)}
+        #    for atom in ent_atoms
+        #]
 
         # Extract context graph from medspaCy
         context_graph = {"targets": [], "modifiers": [], "edges": []}
@@ -921,11 +935,13 @@ class MedicalHypergraphPipeline:
                 ):
                     dep_ent = doc.ents[dep_idx]
                     dest_ent = doc.ents[dest_idx]
+                    dep_cid = ent_idx_to_canonical_id.get(dep_idx, f"ENT{dep_idx}")
+                    dest_cid = ent_idx_to_canonical_id.get(dest_idx, f"ENT{dest_idx}")
                     sentence_relation_hints.append(
                         {
-                            "dep_cid": dep_idx,
+                            "dep_cid": dep_cid,
                             "dep_text": dep_ent.text,
-                            "dest_cid": dest_idx,
+                            "dest_cid": dest_cid,
                             "dest_text": dest_ent.text,
                             "relation": relation.get("relation", "UNKNOWN"),
                             "dep_start_char": dep_ent.start_char + offset,
