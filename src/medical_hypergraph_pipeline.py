@@ -460,7 +460,7 @@ class MedicalHypergraphPipeline:
         PIPELINE_INSTANCE_CONTEXT["current"] = self
         self.nlp: Language = self._setup_nlp_pipeline()
         PIPELINE_INSTANCE_CONTEXT["current"] = None
-
+        self.cid_counter = itertools.count(1)
     def chunks(self, text: str):
         """Yield (start_char, end_char, chunk_text) tuples."""
         for start_index, chunk_text in self.base_chunker.chunk_indices(text):
@@ -923,7 +923,9 @@ class MedicalHypergraphPipeline:
                     dest_ent = doc.ents[dest_idx]
                     sentence_relation_hints.append(
                         {
+                            "dep_cid": dep_idx,
                             "dep_text": dep_ent.text,
+                            "dest_cid": dest_idx,
                             "dest_text": dest_ent.text,
                             "relation": relation.get("relation", "UNKNOWN"),
                             "dep_start_char": dep_ent.start_char + offset,
@@ -965,7 +967,7 @@ class MedicalHypergraphPipeline:
     ) -> Tuple[List[Dict], Dict]:
         instance_atoms: List[Dict] = []
         canonical_map: Dict[Tuple[str, Optional[str]], str] = {}
-        cid_counter = itertools.count(1)
+        #cid_counter = itertools.count(1)
 
         all_ents = list(doc.ents) + list(doc.spans.get("spancat", []))
         seen = set()
@@ -979,7 +981,7 @@ class MedicalHypergraphPipeline:
             best_cui = self._best_cui(span)
             canon_key = (surface, best_cui)
             canonical_id = canonical_map.setdefault(
-                canon_key, f"ENT{next(cid_counter)}"
+                canon_key, f"ENT{next(self.cid_counter)}"
             )
 
             modifiers = (

@@ -1131,7 +1131,7 @@
     },
     {
       "instance_id": "inst_1",
-      "canonical_id": "ENT1",
+      "canonical_id": "ENT41",
       "text": "No studies",
       "label": "ENTITY",
       "start_char": 974,
@@ -1164,7 +1164,7 @@
     },
     {
       "instance_id": "inst_2",
-      "canonical_id": "ENT2",
+      "canonical_id": "ENT42",
       "text": "AST:ALT ratio",
       "label": "RATIO",
       "start_char": 1005,
@@ -1178,7 +1178,7 @@
     },
     {
       "instance_id": "inst_3",
-      "canonical_id": "ENT3",
+      "canonical_id": "ENT43",
       "text": "factors",
       "label": "ENTITY",
       "start_char": 1074,
@@ -1213,7 +1213,7 @@
     },
     {
       "instance_id": "inst_4",
-      "canonical_id": "ENT4",
+      "canonical_id": "ENT44",
       "text": "models",
       "label": "ENTITY",
       "start_char": 1085,
@@ -1248,7 +1248,7 @@
     },
     {
       "instance_id": "inst_5",
-      "canonical_id": "ENT5",
+      "canonical_id": "ENT45",
       "text": "sensitivity",
       "label": "STATISTICS",
       "start_char": 1111,
@@ -1283,7 +1283,7 @@
     },
     {
       "instance_id": "inst_6",
-      "canonical_id": "ENT6",
+      "canonical_id": "ENT46",
       "text": "specificity",
       "label": "STATISTICS",
       "start_char": 1143,
@@ -1318,7 +1318,7 @@
     },
     {
       "instance_id": "inst_7",
-      "canonical_id": "ENT7",
+      "canonical_id": "ENT47",
       "text": "differentiate",
       "label": "ENTITY",
       "start_char": 1188,
@@ -1353,7 +1353,7 @@
     },
     {
       "instance_id": "inst_8",
-      "canonical_id": "ENT8",
+      "canonical_id": "ENT48",
       "text": "ALD",
       "label": "DISEASE",
       "start_char": 1210,
@@ -1380,7 +1380,7 @@
     },
     {
       "instance_id": "inst_9",
-      "canonical_id": "ENT9",
+      "canonical_id": "ENT49",
       "text": "NAFLD",
       "label": "DISEASE",
       "start_char": 1232,
@@ -1399,7 +1399,7 @@
     },
     {
       "instance_id": "inst_10",
-      "canonical_id": "ENT10",
+      "canonical_id": "ENT50",
       "text": "clinical guide",
       "label": "ENTITY",
       "start_char": 1277,
@@ -1424,7 +1424,7 @@
     },
     {
       "instance_id": "inst_11",
-      "canonical_id": "ENT11",
+      "canonical_id": "ENT51",
       "text": "liver biopsy",
       "label": "MEDICAL_PROCEDURE",
       "start_char": 1322,
@@ -1457,7 +1457,7 @@
     },
     {
       "instance_id": "inst_12",
-      "canonical_id": "ENT12",
+      "canonical_id": "ENT52",
       "text": "liver transaminases",
       "label": "LAB_TEST",
       "start_char": 1389,
@@ -1490,7 +1490,7 @@
     },
     {
       "instance_id": "inst_13",
-      "canonical_id": "ENT13",
+      "canonical_id": "ENT53",
       "text": "worsen",
       "label": "ENTITY",
       "start_char": 1437,
@@ -1519,7 +1519,7 @@
     },
     {
       "instance_id": "inst_14",
-      "canonical_id": "ENT14",
+      "canonical_id": "ENT54",
       "text": "response",
       "label": "ENTITY",
       "start_char": 1447,
@@ -1552,7 +1552,7 @@
     },
     {
       "instance_id": "inst_15",
-      "canonical_id": "ENT15",
+      "canonical_id": "ENT55",
       "text": "cessation",
       "label": "ENTITY",
       "start_char": 1459,
@@ -1573,7 +1573,7 @@
     },
     {
       "instance_id": "inst_16",
-      "canonical_id": "ENT16",
+      "canonical_id": "ENT56",
       "text": "alcohol intake",
       "label": "NATURAL_SUBSTANCE",
       "start_char": 1472,
@@ -1606,7 +1606,7 @@
     },
     {
       "instance_id": "inst_17",
-      "canonical_id": "ENT17",
+      "canonical_id": "ENT57",
       "text": "admission to hospital",
       "label": "ENTITY",
       "start_char": 1534,
@@ -1627,7 +1627,7 @@
     },
     {
       "instance_id": "inst_18",
-      "canonical_id": "ENT18",
+      "canonical_id": "ENT58",
       "text": "ALT",
       "label": "LAB_TEST",
       "start_char": 1566,
@@ -1660,7 +1660,7 @@
     },
     {
       "instance_id": "inst_19",
-      "canonical_id": "ENT17",
+      "canonical_id": "ENT57",
       "text": "admission to hospital",
       "label": "ENTITY",
       "start_char": 1625,
@@ -1681,7 +1681,7 @@
     },
     {
       "instance_id": "inst_20",
-      "canonical_id": "ENT20",
+      "canonical_id": "ENT60",
       "text": "patients",
       "label": "ENTITY",
       "start_char": 1656,
@@ -1714,7 +1714,7 @@
     },
     {
       "instance_id": "inst_21",
-      "canonical_id": "ENT21",
+      "canonical_id": "ENT61",
       "text": "liver disease",
       "label": "DISEASE",
       "start_char": 1673,
@@ -1749,7 +1749,7 @@
     },
     {
       "instance_id": "inst_22",
-      "canonical_id": "ENT4",
+      "canonical_id": "ENT44",
       "text": "models",
       "label": "ENTITY",
       "start_char": 1711,
@@ -1782,7 +1782,7 @@
     },
     {
       "instance_id": "inst_23",
-      "canonical_id": "ENT23",
+      "canonical_id": "ENT63",
       "text": "cirrhosis",
       "label": "DISEASE",
       "start_char": 1738,
@@ -1815,7 +1815,7 @@
     },
     {
       "instance_id": "inst_24",
-      "canonical_id": "ENT9",
+      "canonical_id": "ENT49",
       "text": "NAFLD",
       "label": "DISEASE",
       "start_char": 1766,
@@ -1832,7 +1832,7 @@
     },
     {
       "instance_id": "inst_25",
-      "canonical_id": "ENT25",
+      "canonical_id": "ENT65",
       "text": "reasonable",
       "label": "ENTITY",
       "start_char": 1777,
@@ -1844,7 +1844,7 @@
     },
     {
       "instance_id": "inst_26",
-      "canonical_id": "ENT26",
+      "canonical_id": "ENT66",
       "text": "accuracy",
       "label": "ENTITY",
       "start_char": 1788,
@@ -1873,7 +1873,7 @@
     },
     {
       "instance_id": "inst_27",
-      "canonical_id": "ENT27",
+      "canonical_id": "ENT67",
       "text": "liver enzyme analysis",
       "label": "LAB_TEST",
       "start_char": 1798,
@@ -1885,7 +1885,7 @@
     },
     {
       "instance_id": "inst_28",
-      "canonical_id": "ENT28",
+      "canonical_id": "ENT68",
       "text": "failed",
       "label": "ENTITY",
       "start_char": 1847,
@@ -1910,7 +1910,7 @@
     },
     {
       "instance_id": "inst_29",
-      "canonical_id": "ENT29",
+      "canonical_id": "ENT69",
       "text": "sensitive",
       "label": "ENTITY",
       "start_char": 1867,
@@ -1943,7 +1943,7 @@
     },
     {
       "instance_id": "inst_30",
-      "canonical_id": "ENT30",
+      "canonical_id": "ENT70",
       "text": "specific",
       "label": "ENTITY",
       "start_char": 1881,
@@ -1976,7 +1976,7 @@
     },
     {
       "instance_id": "inst_31",
-      "canonical_id": "ENT31",
+      "canonical_id": "ENT71",
       "text": "diagnosis",
       "label": "ENTITY",
       "start_char": 1913,
@@ -2009,12 +2009,12 @@
     },
     {
       "instance_id": "inst_32",
-      "canonical_id": "ENT11",
+      "canonical_id": "ENT51",
       "text": "liver biopsy",
-      "label": "MEDICAL_PROCEDURE",
+      "label": "ENTITY",
       "start_char": 1935,
       "end_char": 1947,
-      "sentence_text": "At present liver biopsy[ENT12:MEDICAL_PROCEDURE] cannot be avoided in cases where confirmation of NASH[ENT13:DISEASE] or cirrhosis[ENT14:DISEASE] is necessary.",
+      "sentence_text": "At present liver biopsy cannot be avoided in cases where confirmation of NASH[ENT12:DISEASE] or cirrhosis[ENT13:DISEASE] is necessary.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2042,12 +2042,12 @@
     },
     {
       "instance_id": "inst_33",
-      "canonical_id": "ENT33",
+      "canonical_id": "ENT73",
       "text": "confirmation",
       "label": "ENTITY",
-      "start_char": 2006,
-      "end_char": 2018,
-      "sentence_text": "At present liver biopsy[ENT12:MEDICAL_PROCEDURE] cannot be avoided in cases where confirmation of NASH[ENT13:DISEASE] or cirrhosis[ENT14:DISEASE] is necessary.",
+      "start_char": 1981,
+      "end_char": 1993,
+      "sentence_text": "At present liver biopsy cannot be avoided in cases where confirmation of NASH[ENT12:DISEASE] or cirrhosis[ENT13:DISEASE] is necessary.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2065,12 +2065,12 @@
     },
     {
       "instance_id": "inst_34",
-      "canonical_id": "ENT34",
+      "canonical_id": "ENT74",
       "text": "NASH",
       "label": "DISEASE",
-      "start_char": 2022,
-      "end_char": 2026,
-      "sentence_text": "At present liver biopsy[ENT12:MEDICAL_PROCEDURE] cannot be avoided in cases where confirmation of NASH[ENT13:DISEASE] or cirrhosis[ENT14:DISEASE] is necessary.",
+      "start_char": 1997,
+      "end_char": 2001,
+      "sentence_text": "At present liver biopsy cannot be avoided in cases where confirmation of NASH[ENT12:DISEASE] or cirrhosis[ENT13:DISEASE] is necessary.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2088,12 +2088,12 @@
     },
     {
       "instance_id": "inst_35",
-      "canonical_id": "ENT23",
+      "canonical_id": "ENT63",
       "text": "cirrhosis",
       "label": "DISEASE",
-      "start_char": 2045,
-      "end_char": 2054,
-      "sentence_text": "At present liver biopsy[ENT12:MEDICAL_PROCEDURE] cannot be avoided in cases where confirmation of NASH[ENT13:DISEASE] or cirrhosis[ENT14:DISEASE] is necessary.",
+      "start_char": 2020,
+      "end_char": 2029,
+      "sentence_text": "At present liver biopsy cannot be avoided in cases where confirmation of NASH[ENT12:DISEASE] or cirrhosis[ENT13:DISEASE] is necessary.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2123,24 +2123,24 @@
     },
     {
       "instance_id": "inst_36",
-      "canonical_id": "ENT27",
+      "canonical_id": "ENT67",
       "text": "liver enzyme analysis",
       "label": "LAB_TEST",
-      "start_char": 2096,
-      "end_char": 2117,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2071,
+      "end_char": 2092,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [],
       "contextual_modifiers": []
     },
     {
       "instance_id": "inst_37",
-      "canonical_id": "ENT9",
+      "canonical_id": "ENT49",
       "text": "NAFLD",
       "label": "DISEASE",
-      "start_char": 2137,
-      "end_char": 2142,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2112,
+      "end_char": 2117,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2152,12 +2152,12 @@
     },
     {
       "instance_id": "inst_38",
-      "canonical_id": "ENT38",
+      "canonical_id": "ENT78",
       "text": "lies",
       "label": "ENTITY",
-      "start_char": 2158,
-      "end_char": 2162,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2133,
+      "end_char": 2137,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2169,12 +2169,12 @@
     },
     {
       "instance_id": "inst_39",
-      "canonical_id": "ENT39",
+      "canonical_id": "ENT79",
       "text": "early",
       "label": "ENTITY",
-      "start_char": 2175,
-      "end_char": 2180,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2150,
+      "end_char": 2155,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2202,12 +2202,12 @@
     },
     {
       "instance_id": "inst_40",
-      "canonical_id": "ENT40",
+      "canonical_id": "ENT80",
       "text": "identification",
       "label": "ENTITY",
-      "start_char": 2181,
-      "end_char": 2195,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2156,
+      "end_char": 2170,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2235,12 +2235,12 @@
     },
     {
       "instance_id": "inst_41",
-      "canonical_id": "ENT41",
+      "canonical_id": "ENT81",
       "text": "modification",
       "label": "ENTITY",
-      "start_char": 2200,
-      "end_char": 2212,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2175,
+      "end_char": 2187,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2268,12 +2268,12 @@
     },
     {
       "instance_id": "inst_42",
-      "canonical_id": "ENT42",
+      "canonical_id": "ENT82",
       "text": "associated",
       "label": "ENTITY",
-      "start_char": 2216,
-      "end_char": 2226,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2191,
+      "end_char": 2201,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2301,12 +2301,12 @@
     },
     {
       "instance_id": "inst_43",
-      "canonical_id": "ENT43",
+      "canonical_id": "ENT83",
       "text": "metabolic",
       "label": "ENTITY",
-      "start_char": 2227,
-      "end_char": 2236,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2202,
+      "end_char": 2211,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2334,12 +2334,12 @@
     },
     {
       "instance_id": "inst_44",
-      "canonical_id": "ENT44",
+      "canonical_id": "ENT84",
       "text": "risk factors",
       "label": "ENTITY",
-      "start_char": 2237,
-      "end_char": 2249,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2212,
+      "end_char": 2224,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2363,12 +2363,12 @@
     },
     {
       "instance_id": "inst_45",
-      "canonical_id": "ENT45",
+      "canonical_id": "ENT85",
       "text": "hypertension",
       "label": "DISEASE",
-      "start_char": 2258,
-      "end_char": 2270,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2233,
+      "end_char": 2245,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2396,12 +2396,12 @@
     },
     {
       "instance_id": "inst_46",
-      "canonical_id": "ENT46",
+      "canonical_id": "ENT86",
       "text": "hyperlipidaemia",
       "label": "DISEASE",
-      "start_char": 2287,
-      "end_char": 2302,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2262,
+      "end_char": 2277,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2429,12 +2429,12 @@
     },
     {
       "instance_id": "inst_47",
-      "canonical_id": "ENT47",
+      "canonical_id": "ENT87",
       "text": "glycaemic control",
       "label": "ENTITY",
-      "start_char": 2322,
-      "end_char": 2339,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2297,
+      "end_char": 2314,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2446,12 +2446,12 @@
     },
     {
       "instance_id": "inst_48",
-      "canonical_id": "ENT48",
+      "canonical_id": "ENT88",
       "text": "risk",
       "label": "ENTITY",
-      "start_char": 2347,
-      "end_char": 2351,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2322,
+      "end_char": 2326,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2479,12 +2479,12 @@
     },
     {
       "instance_id": "inst_49",
-      "canonical_id": "ENT49",
+      "canonical_id": "ENT89",
       "text": "stratification",
       "label": "ENTITY",
-      "start_char": 2352,
-      "end_char": 2366,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2327,
+      "end_char": 2341,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2500,12 +2500,12 @@
     },
     {
       "instance_id": "inst_50",
-      "canonical_id": "ENT50",
+      "canonical_id": "ENT90",
       "text": "future",
       "label": "ENTITY",
-      "start_char": 2375,
-      "end_char": 2381,
-      "sentence_text": " The role of liver enzyme analysis[ENT15:LAB_TEST] in NAFLD[ENT16:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT17:DISEASE], hyperlipidaemia[ENT18:DISEASE] and glycaemic control and in risk stratification for the future.",
+      "start_char": 2350,
+      "end_char": 2356,
+      "sentence_text": " The role of liver enzyme analysis[ENT14:LAB_TEST] in NAFLD[ENT15:DISEASE] lies in both the early identification and modification of associated metabolic risk factors such as hypertension[ENT16:DISEASE], hyperlipidaemia[ENT17:DISEASE] and glycaemic control and in risk stratification for the future.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2525,12 +2525,12 @@
     },
     {
       "instance_id": "inst_1",
-      "canonical_id": "ENT1",
+      "canonical_id": "ENT91",
       "text": "scoring system",
       "label": "ENTITY",
       "start_char": 2072,
       "end_char": 2086,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2550,12 +2550,12 @@
     },
     {
       "instance_id": "inst_2",
-      "canonical_id": "ENT2",
+      "canonical_id": "ENT92",
       "text": "Mayo clinic",
       "label": "ENTITY",
       "start_char": 2104,
       "end_char": 2115,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2579,12 +2579,12 @@
     },
     {
       "instance_id": "inst_3",
-      "canonical_id": "ENT3",
+      "canonical_id": "ENT93",
       "text": "age",
       "label": "ENTITY",
       "start_char": 2121,
       "end_char": 2124,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2608,12 +2608,12 @@
     },
     {
       "instance_id": "inst_4",
-      "canonical_id": "ENT4",
+      "canonical_id": "ENT94",
       "text": "hyperglycemia",
       "label": "DISEASE",
       "start_char": 2126,
       "end_char": 2139,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2641,12 +2641,12 @@
     },
     {
       "instance_id": "inst_5",
-      "canonical_id": "ENT5",
+      "canonical_id": "ENT95",
       "text": "body mass index",
       "label": "MEASUREMENT",
       "start_char": 2155,
       "end_char": 2170,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2674,12 +2674,12 @@
     },
     {
       "instance_id": "inst_6",
-      "canonical_id": "ENT6",
+      "canonical_id": "ENT96",
       "text": "platelet count",
       "label": "LAB_TEST",
       "start_char": 2190,
       "end_char": 2204,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2707,12 +2707,12 @@
     },
     {
       "instance_id": "inst_7",
-      "canonical_id": "ENT7",
+      "canonical_id": "ENT97",
       "text": "albumin",
-      "label": "LAB_TEST",
+      "label": "BIOLOGICAL_SUBSTANCE",
       "start_char": 2221,
       "end_char": 2228,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2740,24 +2740,24 @@
     },
     {
       "instance_id": "inst_8",
-      "canonical_id": "ENT8",
+      "canonical_id": "ENT98",
       "text": "AST:ALT ratio",
       "label": "RATIO",
-      "start_char": 2249,
-      "end_char": 2262,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "start_char": 2261,
+      "end_char": 2274,
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [],
       "contextual_modifiers": []
     },
     {
       "instance_id": "inst_9",
-      "canonical_id": "ENT9",
+      "canonical_id": "ENT99",
       "text": "differentiate",
       "label": "ENTITY",
-      "start_char": 2289,
-      "end_char": 2302,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "start_char": 2301,
+      "end_char": 2314,
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2785,12 +2785,12 @@
     },
     {
       "instance_id": "inst_10",
-      "canonical_id": "ENT10",
+      "canonical_id": "ENT100",
       "text": "patients",
       "label": "ENTITY",
-      "start_char": 2303,
-      "end_char": 2311,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "start_char": 2315,
+      "end_char": 2323,
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2818,12 +2818,12 @@
     },
     {
       "instance_id": "inst_11",
-      "canonical_id": "ENT11",
+      "canonical_id": "ENT101",
       "text": "advanced fibrosis",
       "label": "DISEASE",
-      "start_char": 2317,
-      "end_char": 2334,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "start_char": 2329,
+      "end_char": 2346,
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2835,12 +2835,12 @@
     },
     {
       "instance_id": "inst_12",
-      "canonical_id": "ENT12",
+      "canonical_id": "ENT102",
       "text": "NAFLD",
       "label": "DISEASE",
-      "start_char": 2352,
-      "end_char": 2357,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
+      "start_char": 2364,
+      "end_char": 2369,
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2852,24 +2852,24 @@
     },
     {
       "instance_id": "inst_13",
-      "canonical_id": "ENT8",
+      "canonical_id": "ENT98",
       "text": "AST:ALT ratio",
       "label": "RATIO",
-      "start_char": 2377,
-      "end_char": 2390,
-      "sentence_text": "The AST:ALT ratio[ENT7:RATIO] becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT8:DISEASE], as the ratio will increase across a broad range of diseases.",
+      "start_char": 2389,
+      "end_char": 2402,
+      "sentence_text": "The AST:ALT ratio becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT7:DISEASE], as the ratio will increase across a broad range of diseases.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [],
       "contextual_modifiers": []
     },
     {
       "instance_id": "inst_14",
-      "canonical_id": "ENT14",
+      "canonical_id": "ENT104",
       "text": "specific",
       "label": "ENTITY",
       "start_char": 2429,
       "end_char": 2437,
-      "sentence_text": "The AST:ALT ratio[ENT7:RATIO] becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT8:DISEASE], as the ratio will increase across a broad range of diseases.",
+      "sentence_text": "The AST:ALT ratio becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT7:DISEASE], as the ratio will increase across a broad range of diseases.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2897,12 +2897,12 @@
     },
     {
       "instance_id": "inst_15",
-      "canonical_id": "ENT15",
+      "canonical_id": "ENT105",
       "text": "disease",
       "label": "ENTITY",
       "start_char": 2464,
       "end_char": 2471,
-      "sentence_text": "The AST:ALT ratio[ENT7:RATIO] becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT8:DISEASE], as the ratio will increase across a broad range of diseases.",
+      "sentence_text": "The AST:ALT ratio becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT7:DISEASE], as the ratio will increase across a broad range of diseases.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2930,12 +2930,12 @@
     },
     {
       "instance_id": "inst_16",
-      "canonical_id": "ENT16",
+      "canonical_id": "ENT106",
       "text": "development",
       "label": "ENTITY",
       "start_char": 2481,
       "end_char": 2492,
-      "sentence_text": "The AST:ALT ratio[ENT7:RATIO] becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT8:DISEASE], as the ratio will increase across a broad range of diseases.",
+      "sentence_text": "The AST:ALT ratio becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT7:DISEASE], as the ratio will increase across a broad range of diseases.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2963,12 +2963,12 @@
     },
     {
       "instance_id": "inst_17",
-      "canonical_id": "ENT17",
+      "canonical_id": "ENT107",
       "text": "cirrhosis",
       "label": "DISEASE",
       "start_char": 2496,
       "end_char": 2505,
-      "sentence_text": "The AST:ALT ratio[ENT7:RATIO] becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT8:DISEASE], as the ratio will increase across a broad range of diseases.",
+      "sentence_text": "The AST:ALT ratio becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT7:DISEASE], as the ratio will increase across a broad range of diseases.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -2996,12 +2996,12 @@
     },
     {
       "instance_id": "inst_18",
-      "canonical_id": "ENT18",
+      "canonical_id": "ENT108",
       "text": "ratio",
       "label": "ENTITY",
       "start_char": 2528,
       "end_char": 2533,
-      "sentence_text": "The AST:ALT ratio[ENT7:RATIO] becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT8:DISEASE], as the ratio will increase across a broad range of diseases.",
+      "sentence_text": "The AST:ALT ratio becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT7:DISEASE], as the ratio will increase across a broad range of diseases.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -3025,12 +3025,12 @@
     },
     {
       "instance_id": "inst_19",
-      "canonical_id": "ENT19",
+      "canonical_id": "ENT109",
       "text": "increase",
       "label": "ENTITY",
       "start_char": 2539,
       "end_char": 2547,
-      "sentence_text": "The AST:ALT ratio[ENT7:RATIO] becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT8:DISEASE], as the ratio will increase across a broad range of diseases.",
+      "sentence_text": "The AST:ALT ratio becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT7:DISEASE], as the ratio will increase across a broad range of diseases.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -3058,12 +3058,12 @@
     },
     {
       "instance_id": "inst_20",
-      "canonical_id": "ENT20",
+      "canonical_id": "ENT110",
       "text": "diseases",
       "label": "ENTITY",
       "start_char": 2572,
       "end_char": 2580,
-      "sentence_text": "The AST:ALT ratio[ENT7:RATIO] becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT8:DISEASE], as the ratio will increase across a broad range of diseases.",
+      "sentence_text": "The AST:ALT ratio becomes considerably less specific in determining underlying disease with the development of cirrhosis[ENT7:DISEASE], as the ratio will increase across a broad range of diseases.",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -3091,12 +3091,12 @@
     },
     {
       "instance_id": "inst_21",
-      "canonical_id": "ENT12",
+      "canonical_id": "ENT102",
       "text": "NAFLD",
       "label": "DISEASE",
       "start_char": 2608,
       "end_char": 2613,
-      "sentence_text": "It is, however, useful in NAFLD[ENT9:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT10:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT11:DISEASE].",
+      "sentence_text": "It is, however, useful in NAFLD[ENT8:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT9:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT10:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -3108,12 +3108,12 @@
     },
     {
       "instance_id": "inst_22",
-      "canonical_id": "ENT10",
+      "canonical_id": "ENT100",
       "text": "patients",
       "label": "ENTITY",
       "start_char": 2628,
       "end_char": 2636,
-      "sentence_text": "It is, however, useful in NAFLD[ENT9:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT10:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT11:DISEASE].",
+      "sentence_text": "It is, however, useful in NAFLD[ENT8:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT9:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT10:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -3141,12 +3141,12 @@
     },
     {
       "instance_id": "inst_23",
-      "canonical_id": "ENT23",
+      "canonical_id": "ENT113",
       "text": "abusing",
       "label": "ENTITY",
       "start_char": 2653,
       "end_char": 2660,
-      "sentence_text": "It is, however, useful in NAFLD[ENT9:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT10:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT11:DISEASE].",
+      "sentence_text": "It is, however, useful in NAFLD[ENT8:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT9:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT10:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [],
       "contextual_modifiers": [
@@ -3155,12 +3155,12 @@
     },
     {
       "instance_id": "inst_24",
-      "canonical_id": "ENT24",
+      "canonical_id": "ENT114",
       "text": "alcohol",
       "label": "ENTITY",
       "start_char": 2661,
       "end_char": 2668,
-      "sentence_text": "It is, however, useful in NAFLD[ENT9:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT10:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT11:DISEASE].",
+      "sentence_text": "It is, however, useful in NAFLD[ENT8:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT9:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT10:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -3190,12 +3190,12 @@
     },
     {
       "instance_id": "inst_25",
-      "canonical_id": "ENT25",
+      "canonical_id": "ENT115",
       "text": "score of >1",
       "label": "MEASUREMENT",
       "start_char": 2674,
       "end_char": 2685,
-      "sentence_text": "It is, however, useful in NAFLD[ENT9:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT10:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT11:DISEASE].",
+      "sentence_text": "It is, however, useful in NAFLD[ENT8:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT9:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT10:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -3209,12 +3209,12 @@
     },
     {
       "instance_id": "inst_26",
-      "canonical_id": "ENT26",
+      "canonical_id": "ENT116",
       "text": "patient",
       "label": "ENTITY",
-      "start_char": 2747,
-      "end_char": 2754,
-      "sentence_text": "It is, however, useful in NAFLD[ENT9:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT10:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT11:DISEASE].",
+      "start_char": 2746,
+      "end_char": 2753,
+      "sentence_text": "It is, however, useful in NAFLD[ENT8:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT9:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT10:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -3244,12 +3244,12 @@
     },
     {
       "instance_id": "inst_27",
-      "canonical_id": "ENT17",
+      "canonical_id": "ENT107",
       "text": "cirrhosis",
       "label": "DISEASE",
-      "start_char": 2774,
-      "end_char": 2783,
-      "sentence_text": "It is, however, useful in NAFLD[ENT9:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT10:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT11:DISEASE].",
+      "start_char": 2773,
+      "end_char": 2782,
+      "sentence_text": "It is, however, useful in NAFLD[ENT8:DISEASE] patients known not to be abusing alcohol as a score of >1[ENT9:MEASUREMENT] should lead to the consideration that the patient may have developed cirrhosis[ENT10:DISEASE].",
       "section_title": "UNCATEGORISED",
       "umls_linking": [
         {
@@ -3280,7 +3280,9 @@
   ],
   "sentence_relation_hints": [
     {
+      "dep_cid": 0,
       "dep_text": "decades",
+      "dest_cid": 1,
       "dest_text": "research",
       "relation": "ASSOCIATE",
       "dep_start_char": 20,
@@ -3290,7 +3292,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 0,
       "dep_text": "decades",
+      "dest_cid": 2,
       "dest_text": "AST:ALT ratio",
       "relation": "ASSOCIATE",
       "dep_start_char": 20,
@@ -3300,7 +3304,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 0,
       "dep_text": "decades",
+      "dest_cid": 3,
       "dest_text": "differentiation",
       "relation": "ASSOCIATE",
       "dep_start_char": 20,
@@ -3310,7 +3316,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 0,
       "dep_text": "decades",
+      "dest_cid": 4,
       "dest_text": "alcoholic liver disease",
       "relation": "ASSOCIATE",
       "dep_start_char": 20,
@@ -3320,7 +3328,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 0,
       "dep_text": "decades",
+      "dest_cid": 5,
       "dest_text": "ALD",
       "relation": "ASSOCIATE",
       "dep_start_char": 20,
@@ -3330,7 +3340,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 6,
       "dep_text": "liver disease",
+      "dest_cid": 8,
       "dest_text": "NAFLD",
       "relation": "ASSOCIATE",
       "dep_start_char": 197,
@@ -3340,7 +3352,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 7,
       "dep_text": "Non-alcoholic Fatty Liver Disease",
+      "dest_cid": 8,
       "dest_text": "NAFLD",
       "relation": "ASSOCIATE",
       "dep_start_char": 243,
@@ -3350,7 +3364,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 8,
       "dep_text": "NAFLD",
+      "dest_cid": 10,
       "dest_text": "AST",
       "relation": "DECREASE",
       "dep_start_char": 292,
@@ -3360,7 +3376,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 8,
       "dep_text": "NAFLD",
+      "dest_cid": 11,
       "dest_text": "ALT",
       "relation": "DECREASE",
       "dep_start_char": 292,
@@ -3370,7 +3388,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 8,
       "dep_text": "NAFLD",
+      "dest_cid": 10,
       "dest_text": "AST",
       "relation": "DECREASE",
       "dep_start_char": 292,
@@ -3380,7 +3400,9 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 8,
       "dep_text": "NAFLD",
+      "dest_cid": 11,
       "dest_text": "ALT",
       "relation": "DECREASE",
       "dep_start_char": 292,
@@ -3390,9 +3412,11 @@
       "sentence_text": "During the last few decades there has been research into using the AST:ALT ratio[ENT0:RATIO] in the differentiation of alcoholic liver disease[ENT1:DISEASE] (ALD[ENT2:DISEASE]) from other forms of liver disease[ENT3:DISEASE], particularly the Non-alcoholic Fatty Liver Disease[ENT4:DISEASE] (NAFLD[ENT5:DISEASE]) spectrum."
     },
     {
+      "dep_cid": 10,
       "dep_text": "AST",
+      "dest_cid": 12,
       "dest_text": "enzymes",
-      "relation": "INCREASE",
+      "relation": "CAUSE",
       "dep_start_char": 328,
       "dep_end_char": 331,
       "dest_start_char": 370,
@@ -3400,17 +3424,57 @@
       "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
     },
     {
+      "dep_cid": 12,
       "dep_text": "enzymes",
-      "dest_text": "vitamin B6",
+      "dest_cid": 1,
+      "dest_text": "research",
       "relation": "ASSOCIATE",
       "dep_start_char": 370,
       "dep_end_char": 377,
-      "dest_start_char": 434,
-      "dest_end_char": 444,
+      "dest_start_char": 43,
+      "dest_end_char": 51,
       "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
     },
     {
+      "dep_cid": 12,
+      "dep_text": "enzymes",
+      "dest_cid": 2,
+      "dest_text": "AST:ALT ratio",
+      "relation": "ASSOCIATE",
+      "dep_start_char": 370,
+      "dep_end_char": 377,
+      "dest_start_char": 67,
+      "dest_end_char": 80,
+      "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
+    },
+    {
+      "dep_cid": 12,
+      "dep_text": "enzymes",
+      "dest_cid": 4,
+      "dest_text": "alcoholic liver disease",
+      "relation": "ASSOCIATE",
+      "dep_start_char": 370,
+      "dep_end_char": 377,
+      "dest_start_char": 119,
+      "dest_end_char": 142,
+      "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
+    },
+    {
+      "dep_cid": 12,
+      "dep_text": "enzymes",
+      "dest_cid": 5,
+      "dest_text": "ALD",
+      "relation": "ASSOCIATE",
+      "dep_start_char": 370,
+      "dep_end_char": 377,
+      "dest_start_char": 158,
+      "dest_end_char": 161,
+      "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
+    },
+    {
+      "dep_cid": 15,
       "dep_text": "function",
+      "dest_cid": 14,
       "dest_text": "vitamin B6",
       "relation": "ASSOCIATE",
       "dep_start_char": 473,
@@ -3420,7 +3484,21 @@
       "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
     },
     {
+      "dep_cid": 15,
       "dep_text": "function",
+      "dest_cid": 2,
+      "dest_text": "AST:ALT ratio",
+      "relation": "ASSOCIATE",
+      "dep_start_char": 473,
+      "dep_end_char": 481,
+      "dest_start_char": 67,
+      "dest_end_char": 80,
+      "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
+    },
+    {
+      "dep_cid": 15,
+      "dep_text": "function",
+      "dest_cid": 4,
       "dest_text": "alcoholic liver disease",
       "relation": "ASSOCIATE",
       "dep_start_char": 473,
@@ -3430,7 +3508,9 @@
       "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
     },
     {
+      "dep_cid": 15,
       "dep_text": "function",
+      "dest_cid": 5,
       "dest_text": "ALD",
       "relation": "ASSOCIATE",
       "dep_start_char": 473,
@@ -3440,7 +3520,9 @@
       "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
     },
     {
+      "dep_cid": 15,
       "dep_text": "function",
+      "dest_cid": 16,
       "dest_text": "effect",
       "relation": "ASSOCIATE",
       "dep_start_char": 473,
@@ -3450,7 +3532,9 @@
       "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
     },
     {
+      "dep_cid": 15,
       "dep_text": "function",
+      "dest_cid": 17,
       "dest_text": "production",
       "relation": "ASSOCIATE",
       "dep_start_char": 473,
@@ -3460,7 +3544,9 @@
       "sentence_text": "Both AST[ENT6:LAB_TEST] and ALT[ENT7:LAB_TEST] enzymes require pyridoxal-5\u2019-phosphate[ENT8:NATURAL_SUBSTANCE] (vitamin B6[ENT9:NATURAL_SUBSTANCE]) to function properly."
     },
     {
+      "dep_cid": 18,
       "dep_text": "ALT",
+      "dest_cid": 19,
       "dest_text": "AST",
       "relation": "ASSOCIATE",
       "dep_start_char": 592,
@@ -3470,69 +3556,47 @@
       "sentence_text": "Its absence in nutritionally-deficient heavy-drinkers has a much larger effect on the production of ALT[ENT10:LAB_TEST] than that of AST[ENT11:LAB_TEST], causing the AST:ALT ratio[ENT12:RATIO] to rise."
     },
     {
-      "dep_text": "No studies",
-      "dest_text": "AST:ALT ratio",
-      "relation": "ASSOCIATE",
-      "dep_start_char": 974,
-      "dep_end_char": 984,
-      "dest_start_char": 1005,
-      "dest_end_char": 1018,
+      "dep_cid": 7,
+      "dep_text": "ALD",
+      "dest_cid": 6,
+      "dest_text": "differentiate",
+      "relation": "CAUSE",
+      "dep_start_char": 1210,
+      "dep_end_char": 1213,
+      "dest_start_char": 1188,
+      "dest_end_char": 1201,
       "sentence_text": "No studies have shown that the AST:ALT ratio[ENT0:RATIO], either alone or in combination with other factors or models, has the necessary sensitivity[ENT1:STATISTICS] or specificity[ENT2:STATISTICS] to definitively differentiate between ALD[ENT3:DISEASE] and NAFLD[ENT4:DISEASE], but it acts as a useful clinical guide when considering the need for liver biopsy[ENT5:MEDICAL_PROCEDURE]."
     },
     {
-      "dep_text": "No studies",
-      "dest_text": "factors",
-      "relation": "ASSOCIATE",
-      "dep_start_char": 974,
-      "dep_end_char": 984,
-      "dest_start_char": 1074,
-      "dest_end_char": 1081,
+      "dep_cid": 7,
+      "dep_text": "ALD",
+      "dest_cid": 6,
+      "dest_text": "differentiate",
+      "relation": "DECREASE",
+      "dep_start_char": 1210,
+      "dep_end_char": 1213,
+      "dest_start_char": 1188,
+      "dest_end_char": 1201,
       "sentence_text": "No studies have shown that the AST:ALT ratio[ENT0:RATIO], either alone or in combination with other factors or models, has the necessary sensitivity[ENT1:STATISTICS] or specificity[ENT2:STATISTICS] to definitively differentiate between ALD[ENT3:DISEASE] and NAFLD[ENT4:DISEASE], but it acts as a useful clinical guide when considering the need for liver biopsy[ENT5:MEDICAL_PROCEDURE]."
     },
     {
-      "dep_text": "No studies",
-      "dest_text": "models",
-      "relation": "ASSOCIATE",
-      "dep_start_char": 974,
-      "dep_end_char": 984,
-      "dest_start_char": 1085,
-      "dest_end_char": 1091,
-      "sentence_text": "No studies have shown that the AST:ALT ratio[ENT0:RATIO], either alone or in combination with other factors or models, has the necessary sensitivity[ENT1:STATISTICS] or specificity[ENT2:STATISTICS] to definitively differentiate between ALD[ENT3:DISEASE] and NAFLD[ENT4:DISEASE], but it acts as a useful clinical guide when considering the need for liver biopsy[ENT5:MEDICAL_PROCEDURE]."
-    },
-    {
-      "dep_text": "No studies",
-      "dest_text": "sensitivity",
-      "relation": "ASSOCIATE",
-      "dep_start_char": 974,
-      "dep_end_char": 984,
-      "dest_start_char": 1111,
-      "dest_end_char": 1122,
-      "sentence_text": "No studies have shown that the AST:ALT ratio[ENT0:RATIO], either alone or in combination with other factors or models, has the necessary sensitivity[ENT1:STATISTICS] or specificity[ENT2:STATISTICS] to definitively differentiate between ALD[ENT3:DISEASE] and NAFLD[ENT4:DISEASE], but it acts as a useful clinical guide when considering the need for liver biopsy[ENT5:MEDICAL_PROCEDURE]."
-    },
-    {
-      "dep_text": "No studies",
-      "dest_text": "specificity",
-      "relation": "ASSOCIATE",
-      "dep_start_char": 974,
-      "dep_end_char": 984,
-      "dest_start_char": 1143,
-      "dest_end_char": 1154,
-      "sentence_text": "No studies have shown that the AST:ALT ratio[ENT0:RATIO], either alone or in combination with other factors or models, has the necessary sensitivity[ENT1:STATISTICS] or specificity[ENT2:STATISTICS] to definitively differentiate between ALD[ENT3:DISEASE] and NAFLD[ENT4:DISEASE], but it acts as a useful clinical guide when considering the need for liver biopsy[ENT5:MEDICAL_PROCEDURE]."
-    },
-    {
-      "dep_text": "differentiate",
-      "dest_text": "ALD",
-      "relation": "FLUCTUATE",
-      "dep_start_char": 1188,
-      "dep_end_char": 1201,
-      "dest_start_char": 1210,
-      "dest_end_char": 1213,
-      "sentence_text": "No studies have shown that the AST:ALT ratio[ENT0:RATIO], either alone or in combination with other factors or models, has the necessary sensitivity[ENT1:STATISTICS] or specificity[ENT2:STATISTICS] to definitively differentiate between ALD[ENT3:DISEASE] and NAFLD[ENT4:DISEASE], but it acts as a useful clinical guide when considering the need for liver biopsy[ENT5:MEDICAL_PROCEDURE]."
-    },
-    {
+      "dep_cid": 8,
       "dep_text": "NAFLD",
-      "dest_text": "clinical guide",
+      "dest_cid": 8,
+      "dest_text": "NAFLD",
       "relation": "INCREASE",
+      "dep_start_char": 1232,
+      "dep_end_char": 1237,
+      "dest_start_char": 1232,
+      "dest_end_char": 1237,
+      "sentence_text": "No studies have shown that the AST:ALT ratio[ENT0:RATIO], either alone or in combination with other factors or models, has the necessary sensitivity[ENT1:STATISTICS] or specificity[ENT2:STATISTICS] to definitively differentiate between ALD[ENT3:DISEASE] and NAFLD[ENT4:DISEASE], but it acts as a useful clinical guide when considering the need for liver biopsy[ENT5:MEDICAL_PROCEDURE]."
+    },
+    {
+      "dep_cid": 8,
+      "dep_text": "NAFLD",
+      "dest_cid": 9,
+      "dest_text": "clinical guide",
+      "relation": "FLUCTUATE",
       "dep_start_char": 1232,
       "dep_end_char": 1237,
       "dest_start_char": 1277,
@@ -3540,154 +3604,136 @@
       "sentence_text": "No studies have shown that the AST:ALT ratio[ENT0:RATIO], either alone or in combination with other factors or models, has the necessary sensitivity[ENT1:STATISTICS] or specificity[ENT2:STATISTICS] to definitively differentiate between ALD[ENT3:DISEASE] and NAFLD[ENT4:DISEASE], but it acts as a useful clinical guide when considering the need for liver biopsy[ENT5:MEDICAL_PROCEDURE]."
     },
     {
-      "dep_text": "liver transaminases",
-      "dest_text": "liver biopsy",
+      "dep_cid": 14,
+      "dep_text": "cessation",
+      "dest_cid": 15,
+      "dest_text": "alcohol intake",
       "relation": "ASSOCIATE",
-      "dep_start_char": 1389,
-      "dep_end_char": 1408,
-      "dest_start_char": 1322,
-      "dest_end_char": 1334,
+      "dep_start_char": 1459,
+      "dep_end_char": 1468,
+      "dest_start_char": 1472,
+      "dest_end_char": 1486,
       "sentence_text": "It should also be noted that liver transaminases[ENT6:LAB_TEST] are known to worsen in response to cessation of alcohol intake[ENT7:NATURAL_SUBSTANCE] (often coinciding with admission to hospital) and that ALT[ENT8:LAB_TEST] has also been shown to rise simply from admission to hospital, even in patients with no liver disease[ENT9:DISEASE]."
     },
     {
-      "dep_text": "worsen",
-      "dest_text": "response",
-      "relation": "ASSOCIATE",
-      "dep_start_char": 1437,
-      "dep_end_char": 1443,
-      "dest_start_char": 1447,
-      "dest_end_char": 1455,
-      "sentence_text": "It should also be noted that liver transaminases[ENT6:LAB_TEST] are known to worsen in response to cessation of alcohol intake[ENT7:NATURAL_SUBSTANCE] (often coinciding with admission to hospital) and that ALT[ENT8:LAB_TEST] has also been shown to rise simply from admission to hospital, even in patients with no liver disease[ENT9:DISEASE]."
-    },
-    {
-      "dep_text": "worsen",
-      "dest_text": "cessation",
-      "relation": "ASSOCIATE",
-      "dep_start_char": 1437,
-      "dep_end_char": 1443,
-      "dest_start_char": 1459,
-      "dest_end_char": 1468,
-      "sentence_text": "It should also be noted that liver transaminases[ENT6:LAB_TEST] are known to worsen in response to cessation of alcohol intake[ENT7:NATURAL_SUBSTANCE] (often coinciding with admission to hospital) and that ALT[ENT8:LAB_TEST] has also been shown to rise simply from admission to hospital, even in patients with no liver disease[ENT9:DISEASE]."
-    },
-    {
-      "dep_text": "alcohol intake",
+      "dep_cid": 14,
+      "dep_text": "cessation",
+      "dest_cid": 16,
       "dest_text": "admission to hospital",
       "relation": "ASSOCIATE",
-      "dep_start_char": 1472,
-      "dep_end_char": 1486,
+      "dep_start_char": 1459,
+      "dep_end_char": 1468,
       "dest_start_char": 1534,
       "dest_end_char": 1555,
       "sentence_text": "It should also be noted that liver transaminases[ENT6:LAB_TEST] are known to worsen in response to cessation of alcohol intake[ENT7:NATURAL_SUBSTANCE] (often coinciding with admission to hospital) and that ALT[ENT8:LAB_TEST] has also been shown to rise simply from admission to hospital, even in patients with no liver disease[ENT9:DISEASE]."
     },
     {
-      "dep_text": "alcohol intake",
+      "dep_cid": 14,
+      "dep_text": "cessation",
+      "dest_cid": 17,
       "dest_text": "ALT",
       "relation": "ASSOCIATE",
-      "dep_start_char": 1472,
-      "dep_end_char": 1486,
+      "dep_start_char": 1459,
+      "dep_end_char": 1468,
       "dest_start_char": 1566,
       "dest_end_char": 1569,
       "sentence_text": "It should also be noted that liver transaminases[ENT6:LAB_TEST] are known to worsen in response to cessation of alcohol intake[ENT7:NATURAL_SUBSTANCE] (often coinciding with admission to hospital) and that ALT[ENT8:LAB_TEST] has also been shown to rise simply from admission to hospital, even in patients with no liver disease[ENT9:DISEASE]."
     },
     {
-      "dep_text": "alcohol intake",
-      "dest_text": "admission to hospital",
-      "relation": "ASSOCIATE",
-      "dep_start_char": 1472,
-      "dep_end_char": 1486,
-      "dest_start_char": 1625,
-      "dest_end_char": 1646,
-      "sentence_text": "It should also be noted that liver transaminases[ENT6:LAB_TEST] are known to worsen in response to cessation of alcohol intake[ENT7:NATURAL_SUBSTANCE] (often coinciding with admission to hospital) and that ALT[ENT8:LAB_TEST] has also been shown to rise simply from admission to hospital, even in patients with no liver disease[ENT9:DISEASE]."
-    },
-    {
+      "dep_cid": 0,
       "dep_text": "scoring system",
+      "dest_cid": 5,
       "dest_text": "platelet count",
       "relation": "ASSOCIATE",
       "dep_start_char": 2072,
       "dep_end_char": 2086,
       "dest_start_char": 2190,
       "dest_end_char": 2204,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
     },
     {
+      "dep_cid": 1,
       "dep_text": "Mayo clinic",
+      "dest_cid": 5,
       "dest_text": "platelet count",
       "relation": "ASSOCIATE",
       "dep_start_char": 2104,
       "dep_end_char": 2115,
       "dest_start_char": 2190,
       "dest_end_char": 2204,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
     },
     {
+      "dep_cid": 2,
       "dep_text": "age",
+      "dest_cid": 5,
       "dest_text": "platelet count",
       "relation": "ASSOCIATE",
       "dep_start_char": 2121,
       "dep_end_char": 2124,
       "dest_start_char": 2190,
       "dest_end_char": 2204,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
     },
     {
+      "dep_cid": 3,
       "dep_text": "hyperglycemia",
+      "dest_cid": 5,
       "dest_text": "platelet count",
       "relation": "ASSOCIATE",
       "dep_start_char": 2126,
       "dep_end_char": 2139,
       "dest_start_char": 2190,
       "dest_end_char": 2204,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
     },
     {
+      "dep_cid": 4,
       "dep_text": "body mass index",
+      "dest_cid": 5,
       "dest_text": "platelet count",
       "relation": "ASSOCIATE",
       "dep_start_char": 2155,
       "dep_end_char": 2170,
       "dest_start_char": 2190,
       "dest_end_char": 2204,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
     },
     {
-      "dep_text": "platelet count",
-      "dest_text": "albumin",
-      "relation": "ASSOCIATE",
-      "dep_start_char": 2190,
-      "dep_end_char": 2204,
-      "dest_start_char": 2221,
-      "dest_end_char": 2228,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
-    },
-    {
-      "dep_text": "AST:ALT ratio",
-      "dest_text": "differentiate",
-      "relation": "INCREASE",
-      "dep_start_char": 2249,
-      "dep_end_char": 2262,
-      "dest_start_char": 2289,
-      "dest_end_char": 2302,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
-    },
-    {
-      "dep_text": "differentiate",
+      "dep_cid": 4,
+      "dep_text": "body mass index",
+      "dest_cid": 7,
       "dest_text": "AST:ALT ratio",
-      "relation": "CAUSE",
-      "dep_start_char": 2289,
-      "dep_end_char": 2302,
-      "dest_start_char": 2249,
-      "dest_end_char": 2262,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
+      "relation": "INCREASE",
+      "dep_start_char": 2155,
+      "dep_end_char": 2170,
+      "dest_start_char": 2261,
+      "dest_end_char": 2274,
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
     },
     {
-      "dep_text": "advanced fibrosis",
-      "dest_text": "NAFLD",
+      "dep_cid": 4,
+      "dep_text": "body mass index",
+      "dest_cid": 10,
+      "dest_text": "advanced fibrosis",
+      "relation": "INCREASE",
+      "dep_start_char": 2155,
+      "dep_end_char": 2170,
+      "dest_start_char": 2329,
+      "dest_end_char": 2346,
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
+    },
+    {
+      "dep_cid": 9,
+      "dep_text": "patients",
+      "dest_cid": 10,
+      "dest_text": "advanced fibrosis",
       "relation": "ASSOCIATE",
-      "dep_start_char": 2317,
-      "dep_end_char": 2334,
-      "dest_start_char": 2352,
-      "dest_end_char": 2357,
-      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:LAB_TEST], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
+      "dep_start_char": 2315,
+      "dep_end_char": 2323,
+      "dest_start_char": 2329,
+      "dest_end_char": 2346,
+      "sentence_text": "A scoring system developed at the Mayo clinic uses age, hyperglycemia[ENT0:DISEASE], body mass index[ENT1:MEASUREMENT], platelet count[ENT2:LAB_TEST], albumin[ENT3:BIOLOGICAL_SUBSTANCE], and AST:ALT ratio[ENT4:RATIO] to accurately differentiate patients with advanced fibrosis[ENT5:DISEASE] in NAFLD[ENT6:DISEASE]."
     }
   ],
   "context_graph": {
@@ -3805,12 +3851,12 @@
       },
       {
         "text": "cannot be",
-        "start_char": 1973,
-        "end_char": 1982,
+        "start_char": 1948,
+        "end_char": 1957,
         "category": "NEGATED_EXISTENCE",
         "span_indices": [
-          152,
-          154
+          151,
+          153
         ]
       },
       {
@@ -3819,8 +3865,8 @@
         "end_char": 2597,
         "category": "NEGATED_EXISTENCE",
         "span_indices": [
-          80,
-          81
+          79,
+          80
         ]
       },
       {
@@ -3829,8 +3875,8 @@
         "end_char": 2660,
         "category": "NEGATED_EXISTENCE",
         "span_indices": [
-          88,
-          91
+          87,
+          90
         ]
       }
     ],
@@ -4076,16 +4122,16 @@
       {
         "target": {
           "text": "confirmation",
-          "start_char": 1032,
-          "end_char": 1044,
+          "start_char": 1007,
+          "end_char": 1019,
           "label": "ENTITY"
         },
         "modifier": {
           "type": "modifier",
           "category": "NEGATED_EXISTENCE",
           "span_indices": [
-            152,
-            154
+            151,
+            153
           ],
           "direction": "FORWARD"
         }
@@ -4093,16 +4139,16 @@
       {
         "target": {
           "text": "NASH",
-          "start_char": 1048,
-          "end_char": 1052,
+          "start_char": 1023,
+          "end_char": 1027,
           "label": "DISEASE"
         },
         "modifier": {
           "type": "modifier",
           "category": "NEGATED_EXISTENCE",
           "span_indices": [
-            152,
-            154
+            151,
+            153
           ],
           "direction": "FORWARD"
         }
@@ -4110,16 +4156,16 @@
       {
         "target": {
           "text": "cirrhosis",
-          "start_char": 1071,
-          "end_char": 1080,
+          "start_char": 1046,
+          "end_char": 1055,
           "label": "DISEASE"
         },
         "modifier": {
           "type": "modifier",
           "category": "NEGATED_EXISTENCE",
           "span_indices": [
-            152,
-            154
+            151,
+            153
           ],
           "direction": "FORWARD"
         }
@@ -4135,8 +4181,8 @@
           "type": "modifier",
           "category": "NEGATED_EXISTENCE",
           "span_indices": [
-            88,
-            91
+            87,
+            90
           ],
           "direction": "FORWARD"
         }
@@ -4152,8 +4198,8 @@
           "type": "modifier",
           "category": "NEGATED_EXISTENCE",
           "span_indices": [
-            88,
-            91
+            87,
+            90
           ],
           "direction": "FORWARD"
         }
@@ -4169,8 +4215,8 @@
           "type": "modifier",
           "category": "NEGATED_EXISTENCE",
           "span_indices": [
-            88,
-            91
+            87,
+            90
           ],
           "direction": "FORWARD"
         }
@@ -4178,16 +4224,16 @@
       {
         "target": {
           "text": "patient",
-          "start_char": 677,
-          "end_char": 684,
+          "start_char": 676,
+          "end_char": 683,
           "label": "ENTITY"
         },
         "modifier": {
           "type": "modifier",
           "category": "NEGATED_EXISTENCE",
           "span_indices": [
-            88,
-            91
+            87,
+            90
           ],
           "direction": "FORWARD"
         }
@@ -4195,16 +4241,16 @@
       {
         "target": {
           "text": "cirrhosis",
-          "start_char": 704,
-          "end_char": 713,
+          "start_char": 703,
+          "end_char": 712,
           "label": "DISEASE"
         },
         "modifier": {
           "type": "modifier",
           "category": "NEGATED_EXISTENCE",
           "span_indices": [
-            88,
-            91
+            87,
+            90
           ],
           "direction": "FORWARD"
         }
