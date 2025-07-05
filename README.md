@@ -69,7 +69,7 @@ scispacy/
 - **rel_normalizer.py**: Utilities for normalizing relation outputs.
 - **visualize2.py / visualizegemin.py**: Example scripts for visualizing hypergraphs.
 - **resources/context_rules.json**: Customizable context rules for medspaCy.
-- **resources/target_rules.json**: Customizable target rules for medspaCy.
+- **results/target_rules_prod_json**: Customizable target rules for medspaCy.
 - **results/**: Output directory for hypergraph and results.
 
 ---
