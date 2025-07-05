@@ -42,7 +42,7 @@ scispacy/
    pip install -r requirements.txt
    ```
 
-2. **Download models**
+2. **Download models and export your OpenAI API KEY or change models in config.cfg file**
    - Download the `en_core_sci_scibert` model:
      ```bash
      pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_scibert-0.5.4.tar.gz
@@ -69,6 +69,7 @@ scispacy/
 - **rel_normalizer.py**: Utilities for normalizing relation outputs.
 - **visualize2.py / visualizegemin.py**: Example scripts for visualizing hypergraphs.
 - **resources/context_rules.json**: Customizable context rules for medspaCy.
+- **resources/target_rules.json**: Customizable target rules for medspaCy.
 - **results/**: Output directory for hypergraph and results.
 
 ---
@@ -88,5 +89,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-**Maintainer:** [Your Name]  
-**Contact:** [your.email@example.com]
+**Maintainer:** [EggzYy]  
+**Contact:** [emogun@gmail.com]
