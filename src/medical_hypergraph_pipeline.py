@@ -24,7 +24,7 @@ import gc
 gc.collect()
 # Import custom components
 import rel_normalizer  # Import to register the factory
-
+from scispacy.linking import EntityLinker
 # Ensure custom attributes are registered globally before use
 for _attr in (
     "temporality",
@@ -442,20 +442,6 @@ def _fix_pseudo_python_dict(text: str) -> str:
     text = re.sub(r"(:\s*)([a-zA-Z_][a-zA-Z0-9_]*)(?=[,}])", r'\1"\2"', text)
 
     return text
-
-
-#    def _setup_chunker(self, config: Dict[str, Any]):
-#        """Use *semantic-chunker* so we never feed >4k tokens to spaCy-LLM."""
-#        base_chunker = get_chunker("gpt-4.1", chunking_type="text", max_tokens=250, trim=False, overlap=0)
-#        return OffsetAwareChunker(base_chunker, config)
-
-
-# class OffsetAwareChunker:
-#    """Wrapper around semantic_chunker that provides offset information."""
-#
-#    def __init__(self, base_chunker, config):
-#        self.base_chunker = base_chunker
-#        self.config = config
 
 
 class MedicalHypergraphPipeline:
